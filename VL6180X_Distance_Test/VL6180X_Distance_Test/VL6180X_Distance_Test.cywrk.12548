@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="VL6180X_Distance_Test\VL6180X_Distance_Test\Source Files\main.c">
+<ExpandedNodeIds>
+<v>VL6180X_Distance_Test</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\TopDesign</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test.cydwr</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test.cydwr\Pins</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test.cydwr\Analog</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test.cydwr\DMA</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test.cydwr\Clocks</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test.cydwr\Interrupts</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test.cydwr\System</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test.cydwr\Directives</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test.cydwr\Flash Security</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\Header Files</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\Header Files\cyapicallbacks.h</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\Source Files</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\Source Files\main.c</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\Generated_Source</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\Generated_Source\PSoC4</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\Generated_Source\PSoC4\I2C_Distance</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>VL6180X_Distance_Test</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\TopDesign</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test.cydwr</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test.cydwr\Pins</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test.cydwr\Analog</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test.cydwr\DMA</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test.cydwr\Clocks</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test.cydwr\Interrupts</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test.cydwr\System</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test.cydwr\Directives</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test.cydwr\Flash Security</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\Header Files</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\Header Files\cyapicallbacks.h</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\Source Files</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\Source Files\main.c</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\Generated_Source</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\Generated_Source\PSoC4</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\Generated_Source\PSoC4\Clock_1</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\Generated_Source\PSoC4\cy_boot</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\Generated_Source\PSoC4\cy_dmac</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\Generated_Source\PSoC4\cy_lfclk</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\Generated_Source\PSoC4\Em_EEPROM_Dynamic</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\Generated_Source\PSoC4\I2C_Distance</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\Generated_Source\PSoC4\I2C_Distance\I2C_Distance.c</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\Generated_Source\PSoC4\I2C_Distance\I2C_Distance.h</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\Generated_Source\PSoC4\I2C_Distance\I2C_Distance_BOOT.c</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\Generated_Source\PSoC4\I2C_Distance\I2C_Distance_BOOT.h</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\Generated_Source\PSoC4\I2C_Distance\I2C_Distance_I2C.c</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\Generated_Source\PSoC4\I2C_Distance\I2C_Distance_I2C.h</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\Generated_Source\PSoC4\I2C_Distance\I2C_Distance_I2C_BOOT.c</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\Generated_Source\PSoC4\I2C_Distance\I2C_Distance_I2C_INT.c</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\Generated_Source\PSoC4\I2C_Distance\I2C_Distance_I2C_MASTER.c</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\Generated_Source\PSoC4\I2C_Distance\I2C_Distance_I2C_PVT.h</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\Generated_Source\PSoC4\I2C_Distance\I2C_Distance_PINS.h</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>VL6180X_Distance_Test</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\TopDesign</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>VL6180X_Distance_Test</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\TopDesign</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>VL6180X_Distance_Test</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\Clock_1.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\Cm0plusStart.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyDMA.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyLFClk.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\I2C_Distance.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\I2C_Distance_BOOT.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\I2C_Distance_I2C.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\I2C_Distance_I2C_BOOT.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\I2C_Distance_I2C_INT.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\I2C_Distance_I2C_MASTER.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\I2C_Distance_PM.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\I2C_Distance_SCB_IRQ.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\I2C_Distance_SCBCLK.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\I2C_Distance_scl.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\I2C_Distance_scl_PM.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\I2C_Distance_sda.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\I2C_Distance_sda_PM.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_BOOT.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_PM.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_rx.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_rx_PM.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_SCBCLK.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_SPI_UART.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_SPI_UART_INT.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_tx.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_tx_PM.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_UART.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_UART_BOOT.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\VL6180X_Distance_Test.elf</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\VL6180X_Distance_Test.hex</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\VL6180X_Distance_Test.map</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test.gpdsc</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test.rpt</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>VL6180X_Distance_Test</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\Clock_1.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\Cm0plusStart.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyDMA.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyLFClk.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\I2C_Distance.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\I2C_Distance_BOOT.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\I2C_Distance_I2C.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\I2C_Distance_I2C_BOOT.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\I2C_Distance_I2C_INT.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\I2C_Distance_I2C_MASTER.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\I2C_Distance_PM.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\I2C_Distance_SCB_IRQ.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\I2C_Distance_SCBCLK.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\I2C_Distance_scl.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\I2C_Distance_scl_PM.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\I2C_Distance_sda.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\I2C_Distance_sda_PM.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_BOOT.lst</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_PM.lst</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>VL6180X_Distance_Test</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\PSoC 4 Architecture TRM</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\System Reference Guides</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\System Reference Guides\cy_boot_v6_0</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\System Reference Guides\cy_dmac_v1_10</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\System Reference Guides\cy_lfclk_v1_20</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\cy_clock_v2_20.pdf</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\SCB_P4_v4_0</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\SCB_P4_v4_0\SCB_P4_v4_0.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>VL6180X_Distance_Test</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\PSoC 4 Architecture TRM</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\System Reference Guides</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\System Reference Guides\cy_boot_v6_0</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\System Reference Guides\cy_dmac_v1_10</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\System Reference Guides\cy_lfclk_v1_20</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\cy_clock_v2_20.pdf</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\SCB_P4_v4_0</v>
+<v>VL6180X_Distance_Test\VL6180X_Distance_Test\SCB_P4_v4_0\SCB_P4_v4_0.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\VL6180X_Distance_Test.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\VL6180X_Distance_Test.cydsn\main.c" />
+<name v=".\VL6180X_Distance_Test.cydsn\VL6180X_Distance_Test.cydwr" />
+<name v=".\VL6180X_Distance_Test.cydsn\Generated_Source\PSoC4\UART.h" />
+<name v=".\VL6180X_Distance_Test.cydsn\Generated_Source\PSoC4\UART_BOOT.h" />
+<name v=".\VL6180X_Distance_Test.cydsn\Generated_Source\PSoC4\UART_rx.h" />
+<name v=".\VL6180X_Distance_Test.cydsn\Generated_Source\PSoC4\UART_rx.c" />
+<name v=".\VL6180X_Distance_Test.cydsn\Generated_Source\PSoC4\UART_rx_PM.c" />
+<name v=".\VL6180X_Distance_Test.cydsn\Generated_Source\PSoC4\UART_rx_aliases.h" />
+<name v=".\VL6180X_Distance_Test.cydsn\Generated_Source\PSoC4\UART_PINS.h" />
+<name v=".\VL6180X_Distance_Test.cydsn\Generated_Source\PSoC4\cyfitter.h" />
+<name v=".\VL6180X_Distance_Test.cydsn\Generated_Source\PSoC4\I2C_Distance_BOOT.c" />
+<name v=".\VL6180X_Distance_Test.cydsn\Generated_Source\PSoC4\I2C_Distance_I2C.c" />
+<name v=".\VL6180X_Distance_Test.cydsn\Generated_Source\PSoC4\I2C_Distance_I2C_INT.c" />
+<name v=".\VL6180X_Distance_Test.cydsn\Generated_Source\PSoC4\I2C_Distance_I2C_MASTER.c" />
+<name v=".\VL6180X_Distance_Test.cydsn\Generated_Source\PSoC4\I2C_Distance_PM.c" />
+<name v=".\VL6180X_Distance_Test.cydsn\Generated_Source\PSoC4\I2C_Distance_PVT.h" />
+<name v=".\VL6180X_Distance_Test.cydsn\Generated_Source\PSoC4\I2C_Distance.c" />
+<name v=".\VL6180X_Distance_Test.cydsn\Generated_Source\PSoC4\I2C_Distance_I2C.h" />
+<name v=".\VL6180X_Distance_Test.cydsn\Generated_Source\PSoC4\I2C_Distance_I2C_BOOT.c" />
+<name v=".\VL6180X_Distance_Test.cydsn\Generated_Source\PSoC4\I2C_Distance_PINS.h" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1427, 675" SelectedTabbedMdiWindow="f0f0e645-7f23-4a61-a8e3-78a2dd9a30e0"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="adc13790-6aa1-4647-8a8e-ae77b3d64e34" /><DocumentWindow Key="C:\Users\12548\Studies_Works\VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test.cydsn\TopDesign\TopDesign.cysch" Guid="5206bc18-44f7-4d6c-8a31-367e5e55a6eb" /><DocumentWindow Key="C:\Users\12548\Studies_Works\VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test.cydsn\main.c" Guid="f0f0e645-7f23-4a61-a8e3-78a2dd9a30e0" /><DocumentWindow Key="C:\Users\12548\Studies_Works\VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test.cydsn\VL6180X_Distance_Test.cydwr" Guid="2903e54b-46b3-4b2c-bedc-8e963441f09b" /><DocumentWindow Key="C:\Users\12548\Studies_Works\VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test.cydsn\Generated_Source\PSoC4\UART.h" Guid="5b822f57-acb3-4663-bbaf-2f869354f7ec" /><DocumentWindow Key="C:\Users\12548\Studies_Works\VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test.cydsn\Generated_Source\PSoC4\UART_BOOT.h" Guid="348863aa-a748-4372-bbbf-53eb3c319837" /><DocumentWindow Key="C:\Users\12548\Studies_Works\VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test.cydsn\Generated_Source\PSoC4\UART_rx.h" Guid="5400abe8-a098-4499-8322-b779ccb4b50f" /><DocumentWindow Key="C:\Users\12548\Studies_Works\VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test.cydsn\Generated_Source\PSoC4\UART_rx.c" Guid="cd51e95f-b3ac-47a7-bc8d-b6c7107a029e" /><DocumentWindow Key="C:\Users\12548\Studies_Works\VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test.cydsn\Generated_Source\PSoC4\UART_rx_PM.c" Guid="b757aa5d-cf40-4696-887d-6cc92ac60dac" /><DocumentWindow Key="C:\Users\12548\Studies_Works\VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test.cydsn\Generated_Source\PSoC4\UART_rx_aliases.h" Guid="faff0948-dcda-4ebf-a99c-33c7643b0de0" /><DocumentWindow Key="C:\Users\12548\Studies_Works\VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test.cydsn\Generated_Source\PSoC4\UART_PINS.h" Guid="53a420f3-7bd6-4525-b8f4-fce4cffa0a80" /><DocumentWindow Key="C:\Users\12548\Studies_Works\VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test.cydsn\Generated_Source\PSoC4\cyfitter.h" Guid="e8c953b0-5b88-4870-b81a-90302ffa2350" /><DocumentWindow Key="C:\Users\12548\Studies_Works\VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test.cydsn\Generated_Source\PSoC4\I2C_Distance_BOOT.c" Guid="745cc28a-f814-4a5a-9799-5da22ee997a1" /><DocumentWindow Key="C:\Users\12548\Studies_Works\VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test.cydsn\Generated_Source\PSoC4\I2C_Distance_I2C.c" Guid="2276a3de-aa90-4e3f-b8c5-faa2cdef9d61" /><DocumentWindow Key="C:\Users\12548\Studies_Works\VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test.cydsn\Generated_Source\PSoC4\I2C_Distance_I2C_INT.c" Guid="7bffca74-61f9-4a69-b2b9-fa2509f9b2e4" /><DocumentWindow Key="C:\Users\12548\Studies_Works\VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test.cydsn\Generated_Source\PSoC4\I2C_Distance_I2C_MASTER.c" Guid="8a5381e7-77c8-4999-ae52-9d3161cdad81" /><DocumentWindow Key="C:\Users\12548\Studies_Works\VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test.cydsn\Generated_Source\PSoC4\I2C_Distance_PM.c" Guid="b95a9bf4-77ef-4b0a-be22-20de185fd788" /><DocumentWindow Key="C:\Users\12548\Studies_Works\VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test.cydsn\Generated_Source\PSoC4\I2C_Distance_PVT.h" Guid="f6f6ccf0-6dd8-488e-9979-c1803ccef084" /><DocumentWindow Key="C:\Users\12548\Studies_Works\VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test.cydsn\Generated_Source\PSoC4\I2C_Distance.c" Guid="ec3965f9-f68f-48ca-ba39-98d826d1dc64" /><DocumentWindow Key="C:\Users\12548\Studies_Works\VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test.cydsn\Generated_Source\PSoC4\I2C_Distance_I2C.h" Guid="46641116-7cab-4c4a-a519-1e818af57fc2" /><DocumentWindow Key="C:\Users\12548\Studies_Works\VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test.cydsn\Generated_Source\PSoC4\I2C_Distance_I2C_BOOT.c" Guid="a576cc24-4ce6-4e17-8100-8825b8a6257f" /><DocumentWindow Key="C:\Users\12548\Studies_Works\VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test.cydsn\Generated_Source\PSoC4\I2C_Distance_PINS.h" Guid="fc7e808d-8c4f-4712-b3b9-dbe288811cc0" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>

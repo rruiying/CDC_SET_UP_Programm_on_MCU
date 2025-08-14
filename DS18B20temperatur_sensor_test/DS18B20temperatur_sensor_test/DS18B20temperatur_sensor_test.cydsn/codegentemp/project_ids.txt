@@ -1,0 +1,6 @@
+C:\Users\12548\Studies_Works\DS18B20temperatur_sensor_test\DS18B20temperatur_sensor_test\DS18B20temperatur_sensor_test.cydsn\DS18B20temperatur_sensor_test.cyprj|f0560b40-4215-4f4f-8c90-846b3bb8937f
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|0a86038d-acfa-4057-a30f-cafd40e66057
+C:\Users\12548\OneDrive\文档\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|62841a28-7053-4758-b6f8-0b6ace3f0396
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|e07b303f-bea0-462e-9e15-7aa375f7d9ef
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|e4e9f667-477c-479b-80c0-38a4d6bd3815
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|c5df4c16-dd6c-4f6a-a867-4b3a2e1727db

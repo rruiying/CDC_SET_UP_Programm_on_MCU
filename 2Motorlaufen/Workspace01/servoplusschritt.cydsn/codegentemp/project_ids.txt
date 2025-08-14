@@ -1,0 +1,6 @@
+C:\Users\12548\Studies_Works\IP\2Motorlaufen\Workspace01\servoplusschritt.cydsn\servoplusschritt.cyprj|01c0ffed-9121-48b8-8f94-2b1a9858700e
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|bdca6e16-e6eb-44b2-812e-c61f62a31392
+C:\Users\12548\OneDrive\文档\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|f0b4cae4-d2e4-4c74-997c-aee423143a1e
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|ca1fc291-f768-41b1-874c-704ed8104aa1
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|b80e2800-a5ac-406b-951a-fd09b3496147
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|70852438-ebf4-4f9b-bf6c-efc80c626f3f

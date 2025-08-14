@@ -1,0 +1,6 @@
+C:\Users\12548\Studies_Works\VL6180X_Distance_Test\VL6180X_Distance_Test\VL6180X_Distance_Test.cydsn\VL6180X_Distance_Test.cyprj|23f3e4dd-ca5f-40b4-bdd9-2daa4c04ed21
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|bda319cc-8916-4f81-b56f-ff5ef3fa9391
+C:\Users\12548\OneDrive\文档\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|06b6743a-eb4d-43d0-b971-8fc388d27c03
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|f2aa865d-8ff0-40ee-b3c6-b5450dc0514e
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|710e3303-ebd0-4acf-a592-d6982769ec79
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|9c9f2711-8bfe-485d-83af-095e962f9db5
