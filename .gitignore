@@ -1,0 +1,43 @@
+# ---- PSoC Creator: build and temporary files ----
+
+# Build output directories
+**/CortexM0p/
+**/ARM_*/Debug/
+**/ARM_*/Release/
+**/Debug/
+**/Release/
+
+# Object and binary files
+*.o
+*.a
+*.elf
+*.hex
+*.map
+*.lst
+
+# Auto-generated code and temporary files
+**/codegentemp/
+
+# Reports, logs and dependency files
+*.rpt
+*.log
+*.deps
+*.dep
+*.txt
+
+# Tool-generated configuration files
+*.xml
+*.ctl
+*.cyfit
+*.pco
+*.pci
+*.vh2
+*.u.sdc
+*.sdc
+*.plc_log
+
+# User/machine-specific workspace/project snapshots
+# Keep the main .cywrk / .cyprj files, but ignore user-specific variants (*.12548 etc.)
+*.cywrk.*
+*.cyprj.*
+
